@@ -1,2 +1,2 @@
-# MyTemp
-Temp Repo for testing
+# Free AI at api.airforce
+https://discord.gg/AJDsM7jtbq
